@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file. See
 [standard-version](https://github.com/conventional-changelog/standard-version)
 for commit guidelines.
 
+## [1.16.1](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.16.0...v1.16.1) (2021-03-11)
+
+### Bug Fixes
+
+- **actions:** :white_check_mark: add tag test
+  ([cf86a7c](https://github.com/vivaxy/vscode-conventional-commits/commit/cf86a7c9451f9f6cd90491a6c9d0cf1f385e0b21))
+- **actions:** :white_check_mark: test release
+  ([9ba58b6](https://github.com/vivaxy/vscode-conventional-commits/commit/9ba58b67b6ad6422831086b3f4b464065b6ca277))
+
 ## [1.16.0](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.15.1...v1.16.0) (2021-03-02)
 
 ### Features
@@ -13,7 +22,7 @@ for commit guidelines.
   ([05a5b39](https://github.com/vivaxy/vscode-conventional-commits/commit/05a5b39c3e677104a9999e069ab74e8818212bc5)),
   closes [#50](https://github.com/vivaxy/vscode-conventional-commits/issues/50)
 
-### [1.15.1](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.15.0...v1.15.1) (2021-02-24)
+## [1.15.1](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.15.0...v1.15.1) (2021-02-24)
 
 ### Bug Fixes
 
@@ -55,7 +64,7 @@ for commit guidelines.
 - :sparkles: support more commitlint rules
   ([c3168e0](https://github.com/vivaxy/vscode-conventional-commits/commit/c3168e07bbeac6d2ce65f52d59c914e6a529f9d1))
 
-### [1.12.1](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.12.0...v1.12.1) (2020-10-09)
+## [1.12.1](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.12.0...v1.12.1) (2020-10-09)
 
 ### Bug Fixes
 
@@ -76,7 +85,7 @@ for commit guidelines.
 - **deps:** update dependency gitmojis to v3
   ([4ccad4e](https://github.com/vivaxy/vscode-conventional-commits/commit/4ccad4e1ebbc9ea1c2def63579207b83e4288e86))
 
-### [1.11.1](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.11.0...v1.11.1) (2020-08-26)
+## [1.11.1](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.11.0...v1.11.1) (2020-08-26)
 
 ### Bug Fixes
 
@@ -93,7 +102,7 @@ for commit guidelines.
 - :arrow_up: upgrade to the latest gitmoji
   ([607a5b0](https://github.com/vivaxy/vscode-conventional-commits/commit/607a5b0964861b83fbf069a05c91de9a7eec279d))
 
-### [1.10.1](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.10.0...v1.10.1) (2020-07-15)
+## [1.10.1](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.10.0...v1.10.1) (2020-07-15)
 
 ### Bug Fixes
 
@@ -124,7 +133,7 @@ for commit guidelines.
 - **deps:** update dependency @commitlint/load to v9
   ([2829c97](https://github.com/vivaxy/vscode-conventional-commits/commit/2829c97d699a3d1f85a0627619ef0f9e7cee0c1e))
 
-### [1.8.1](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.8.0...v1.8.1) (2020-06-15)
+## [1.8.1](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.8.0...v1.8.1) (2020-06-15)
 
 ### Bug Fixes
 
@@ -146,14 +155,14 @@ for commit guidelines.
   ([c4810d9](https://github.com/vivaxy/vscode-conventional-commits/commit/c4810d961776cf6396e673013f61ec1ddd88d205)),
   closes [#16](https://github.com/vivaxy/vscode-conventional-commits/issues/16)
 
-### [1.6.2](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.6.1...v1.6.2) (2020-06-09)
+## [1.6.2](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.6.1...v1.6.2) (2020-06-09)
 
 ### Bug Fixes
 
 - :bug: fix an issue which results in an empty scope saved to the settings file
   ([640223f](https://github.com/vivaxy/vscode-conventional-commits/commit/640223fccbf1441fb5dc34d9980e4449979f2968))
 
-### [1.6.1](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.6.0...v1.6.1) (2020-05-15)
+## [1.6.1](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.6.0...v1.6.1) (2020-05-15)
 
 ### Bug Fixes
 
@@ -176,13 +185,13 @@ for commit guidelines.
   ([1b77af0](https://github.com/vivaxy/vscode-conventional-commits/commit/1b77af05d84e9bd9ac67b9e554d519046577293e)),
   closes [#11](https://github.com/vivaxy/vscode-conventional-commits/issues/11)
 
-### [1.4.4](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.4.3...v1.4.4) (2020-05-07)
+## [1.4.4](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.4.3...v1.4.4) (2020-05-07)
 
-### [1.4.3](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.4.2...v1.4.3) (2020-05-07)
+## [1.4.3](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.4.2...v1.4.3) (2020-05-07)
 
-### [1.4.2](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.4.1...v1.4.2) (2020-05-06)
+## [1.4.2](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.4.1...v1.4.2) (2020-05-06)
 
-### [1.4.1](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.4.0...v1.4.1) (2020-05-01)
+## [1.4.1](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.4.0...v1.4.1) (2020-05-01)
 
 ### Bug Fixes
 
@@ -213,7 +222,7 @@ for commit guidelines.
 - :sparkles: support commits in git subdirectories
   ([4e001cd](https://github.com/vivaxy/vscode-conventional-commits/commit/4e001cdfe135bcf8dee23e4e15e81c5e4686608c))
 
-### [1.1.1](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.1.0...v1.1.1) (2020-03-31)
+## [1.1.1](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.1.0...v1.1.1) (2020-03-31)
 
 ## [1.1.0](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.0.0...v1.1.0) (2020-03-31)
 
@@ -241,7 +250,7 @@ for commit guidelines.
   ([d55b16e](https://github.com/vivaxy/vscode-conventional-commits/commit/d55b16ec121c130d48315599be663b02d43c5a5b)),
   closes [#4](https://github.com/vivaxy/vscode-conventional-commits/issues/4)
 
-### [0.0.7](https://github.com/vivaxy/vscode-conventional-commits/compare/v0.0.6...v0.0.7) (2020-03-27)
+## [0.0.7](https://github.com/vivaxy/vscode-conventional-commits/compare/v0.0.6...v0.0.7) (2020-03-27)
 
 ### Features
 
@@ -249,23 +258,23 @@ for commit guidelines.
   ([c22919e](https://github.com/vivaxy/vscode-conventional-commits/commit/c22919ef3fa0c6449f82b1c7af800ef97e8c38c7)),
   closes [#3](https://github.com/vivaxy/vscode-conventional-commits/issues/3)
 
-### [0.0.6](https://github.com/vivaxy/vscode-conventional-commits/compare/v0.0.5...v0.0.6) (2020-03-25)
+## [0.0.6](https://github.com/vivaxy/vscode-conventional-commits/compare/v0.0.5...v0.0.6) (2020-03-25)
 
-### [0.0.5](https://github.com/vivaxy/vscode-conventional-commits/compare/v0.0.4...v0.0.5) (2020-03-25)
+## [0.0.5](https://github.com/vivaxy/vscode-conventional-commits/compare/v0.0.4...v0.0.5) (2020-03-25)
 
 ### Features
 
 - :sparkles: add extension icon
   ([b23025b](https://github.com/vivaxy/vscode-conventional-commits/commit/b23025b7784d95c777a86874e9f188e6d6889f4e))
 
-### [0.0.4](https://github.com/vivaxy/vscode-conventional-commits/compare/v0.0.3...v0.0.4) (2020-03-24)
+## [0.0.4](https://github.com/vivaxy/vscode-conventional-commits/compare/v0.0.3...v0.0.4) (2020-03-24)
 
 ### Features
 
 - :truck: rename extension name
   ([d205626](https://github.com/vivaxy/vscode-conventional-commits/commit/d2056267022d10bfe91ade6fc3d9a336f7d09dbb))
 
-### [0.0.3](https://github.com/vivaxy/vscode-conventional-commits/compare/v0.0.2...v0.0.3) (2020-03-24)
+## [0.0.3](https://github.com/vivaxy/vscode-conventional-commits/compare/v0.0.2...v0.0.3) (2020-03-24)
 
 ### 0.0.2 (2020-03-24)
 
