@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.20.0](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.16.0...v1.20.0) (2021-04-02)
+
+### Features
+
+- **body:** :sparkles: add option to remove body prompt ([a199912](https://github.com/vivaxy/vscode-conventional-commits/commit/a1999123e07f9df9ed7f3c63d38168d27f596984)), closes [#107](https://github.com/vivaxy/vscode-conventional-commits/issues/107)
+- **footer:** :sparkles: add option to remove footer prompt ([46fc717](https://github.com/vivaxy/vscode-conventional-commits/commit/46fc717b82d3f13b37a33ea1f9f7d6576efca6e0)), closes [#107](https://github.com/vivaxy/vscode-conventional-commits/issues/107)
+- **scope:** :sparkles: add option to disable scope prompt ([#95](https://github.com/vivaxy/vscode-conventional-commits/issues/95)) ([a35bc7b](https://github.com/vivaxy/vscode-conventional-commits/commit/a35bc7bdb0dcb1a28337770ebe139c053596098f)), closes [#43](https://github.com/vivaxy/vscode-conventional-commits/issues/43)
+- :package: use webpack to bundle extension ([#78](https://github.com/vivaxy/vscode-conventional-commits/issues/78)) ([60e7415](https://github.com/vivaxy/vscode-conventional-commits/commit/60e7415057add068f94ae89e13f3575627ce832b))
+
+### Bug Fixes
+
+- **actions:** :bug: fix the pushing commit before the publishing ([#65](https://github.com/vivaxy/vscode-conventional-commits/issues/65)) ([8117589](https://github.com/vivaxy/vscode-conventional-commits/commit/81175895c864b86a54cc026cd03cb113801a7e0d)), closes [#64](https://github.com/vivaxy/vscode-conventional-commits/issues/64)
+- **actions:** :recycle: rebuild ci publish system ([#63](https://github.com/vivaxy/vscode-conventional-commits/issues/63)) ([70e785b](https://github.com/vivaxy/vscode-conventional-commits/commit/70e785b162a6ffc5cd4be3dafcfbd0abdf27a8da)), closes [#59](https://github.com/vivaxy/vscode-conventional-commits/issues/59)
+- **commit-message:** :bug: fix the prompt context retaining issue ([#119](https://github.com/vivaxy/vscode-conventional-commits/issues/119)) ([cde052c](https://github.com/vivaxy/vscode-conventional-commits/commit/cde052ceafd3d5bc781af48eb05c441364bc9c53))
+- **commitlint:** :bug: fix commitlint configuration loading issue ([f29c3a7](https://github.com/vivaxy/vscode-conventional-commits/commit/f29c3a776edd78d6335cf5e92adc48e3a8257411)), closes [#102](https://github.com/vivaxy/vscode-conventional-commits/issues/102)
+- **commitlint:** :bug: repair commitlint configuration failures ([#103](https://github.com/vivaxy/vscode-conventional-commits/issues/103)) ([b79bb31](https://github.com/vivaxy/vscode-conventional-commits/commit/b79bb316543dd31cb200cd6159142489cdfb5773)), closes [#102](https://github.com/vivaxy/vscode-conventional-commits/issues/102)
+- **localization:** :globe_with_meridians: fix localization missing by using the webpack ([f331c24](https://github.com/vivaxy/vscode-conventional-commits/commit/f331c24cbc1eb69d51115c968cb3c9eef1dcce99))
+- **log:** :bug: fix repeated output of extension version ([bb809ae](https://github.com/vivaxy/vscode-conventional-commits/commit/bb809ae7f1046ae0fb85ce9e9fa14273169ddfd0))
+- :pencil2: fix little typo ([#94](https://github.com/vivaxy/vscode-conventional-commits/issues/94)) ([e6a01cf](https://github.com/vivaxy/vscode-conventional-commits/commit/e6a01cff411419d6fc7be2c888c442c8dfd877b2))
+- **localization:** :globe_with_meridians: fix localization missing by using the wekpack ([#82](https://github.com/vivaxy/vscode-conventional-commits/issues/82)) ([1bc69b9](https://github.com/vivaxy/vscode-conventional-commits/commit/1bc69b917666e534ce84ec1cc1b367cf41f7f25c))
+
 ## [1.19.0](https://github.com/vivaxy/vscode-conventional-commits/compare/v1.18.2...v1.19.0) (2021-04-02)
 
 ### Features
